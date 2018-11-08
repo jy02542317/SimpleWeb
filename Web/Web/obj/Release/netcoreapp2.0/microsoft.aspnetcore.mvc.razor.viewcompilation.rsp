@@ -1,0 +1,6 @@
+F:\git\SimpleWeb\SimpleWeb\Web\Web
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Web
+--content-root=F:\git\SimpleWeb\SimpleWeb\Web\Web
+--file=F:\git\SimpleWeb\SimpleWeb\Web\Web\Views\Default\Index.cshtml
+--file=F:\git\SimpleWeb\SimpleWeb\Web\Web\Views\Home\Index.cshtml

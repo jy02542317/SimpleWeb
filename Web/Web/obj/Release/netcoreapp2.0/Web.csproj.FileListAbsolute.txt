@@ -1,0 +1,11 @@
+F:\git\SimpleWeb\SimpleWeb\Web\Web\bin\Release\netcoreapp2.0\Web.deps.json
+F:\git\SimpleWeb\SimpleWeb\Web\Web\bin\Release\netcoreapp2.0\Web.runtimeconfig.json
+F:\git\SimpleWeb\SimpleWeb\Web\Web\bin\Release\netcoreapp2.0\Web.runtimeconfig.dev.json
+F:\git\SimpleWeb\SimpleWeb\Web\Web\bin\Release\netcoreapp2.0\Web.dll
+F:\git\SimpleWeb\SimpleWeb\Web\Web\bin\Release\netcoreapp2.0\Web.pdb
+F:\git\SimpleWeb\SimpleWeb\Web\Web\obj\Release\netcoreapp2.0\Web.csprojResolveAssemblyReference.cache
+F:\git\SimpleWeb\SimpleWeb\Web\Web\obj\Release\netcoreapp2.0\Web.csproj.CoreCompileInputs.cache
+F:\git\SimpleWeb\SimpleWeb\Web\Web\obj\Release\netcoreapp2.0\Web.AssemblyInfoInputs.cache
+F:\git\SimpleWeb\SimpleWeb\Web\Web\obj\Release\netcoreapp2.0\Web.AssemblyInfo.cs
+F:\git\SimpleWeb\SimpleWeb\Web\Web\obj\Release\netcoreapp2.0\Web.dll
+F:\git\SimpleWeb\SimpleWeb\Web\Web\obj\Release\netcoreapp2.0\Web.pdb
