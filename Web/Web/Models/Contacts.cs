@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Web.Models
 {
-    public class Contact
+    public partial class Contacts
     {
         public int Id { get; set; }
         public DateTime CreateTime { get; set; }
